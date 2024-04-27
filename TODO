@@ -1,0 +1,11 @@
+## Exercise 01 - Layout
+
+* Create an index.html file
+* Add your name as a heading
+* Add a short description of yourself below that,
+* Add an image to page, point it to https://picsum.photos/200/300
+* Set the background color of the entire page to a light grey
+* Mark your name as bold
+* Add a border around the image, and set the padding to 10px all around
+  * hint, place the image inside a div and style the div
+* check the changes into this branch
