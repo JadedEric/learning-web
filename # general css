@@ -1,0 +1,12 @@
+body 
+{
+    background-color: grey
+}
+ 
+ ("Christo 'Erich Klokow {font-weight:bold;}")
+
+ div {
+    border: 1px solid black;
+    padding: 10px;
+    border-image:url("https://c.stocksy.com/a/al6300/z9/740998.jpg" width="100%")
+ }
